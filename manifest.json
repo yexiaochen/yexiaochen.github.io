@@ -1,0 +1,28 @@
+{
+  "name": "贪空",
+  "short_name": "贪空",
+  "icons": [{
+    "src": "/images/favicon-96.png",
+      "sizes": "96x96"
+    },{
+    "src": "/images/favicon-128.png",
+      "sizes": "128x128"
+    }, {
+      "src": "/images/favicon-144.png",
+      "sizes": "144x144"
+    }, {
+      "src": "/images/favicon-152.png",
+      "sizes": "152x152"
+    }, {
+      "src": "/images/favicon-192.png",
+      "sizes": "192x192"
+    }, {
+      "src": "/images/favicon-256.png",
+      "sizes": "256x256"
+    }],
+  "start_url": "/",
+  "display": "fullscreen",
+  "background_color": "#f5f5f5",
+  "theme_color": "#f5f5f5",
+  "scope": "/"
+}
